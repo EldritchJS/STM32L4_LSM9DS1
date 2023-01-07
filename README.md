@@ -8,6 +8,6 @@ The USART driver for the console is interrupt-driven TX and DMA-driven RX. The I
 
 This project has been tested using the following hardware:
 
-STMicroelectronics Nucleo L432KC
-Adafruit LSM9DS1 breakout
-FTDI LC231X TTL Serial
+- STMicroelectronics Nucleo L432KC
+- Adafruit LSM9DS1 breakout
+- FTDI LC231X TTL Serial
